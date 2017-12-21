@@ -1,0 +1,12 @@
+{
+    "name": "nadia/fatfreetest",
+    "authors": [
+        {
+            "name": "Nadia B.",
+            "email": "nadia.benazouz@gmail.com"
+        }
+    ],
+    "require": {
+    	 "bcosca/fatfree":"3.6.2"
+    }
+}	
